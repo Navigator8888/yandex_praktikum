@@ -20,10 +20,10 @@
 |12| [Исследование активности студентов в чатах мессенджера Slack][12] |Проблема – низкая обратная связь на важные посты, публикуемые в чатах | pandas, numpy, seaborn, matplotlib, plotly, datetime |
 |13| [Hackathon][13] | Анализ и визуализация целей обучения студентов Яндекс.Практикум для презентации топ-менеджменту | pandas, numpy, seaborn, matplotlib, plotly, string, pymorphy2 |
 
-[1]: https://clck.ru/34FcqT
-[2]: https://clck.ru/34Fb93
-[3]: https://clck.ru/34FbHA
-[4]: https://clck.ru/34FcCy
+[1]: https://clck.ru/34Nnbh
+[2]: https://clck.ru/34Nnch
+[3]: https://clck.ru/34Nnef
+[4]: https://clck.ru/34Nng8
 [5]: https://clck.ru/34Fdz7
 [6]: https://clck.ru/34Fe4n
 [7]: https://clck.ru/34FfBt
