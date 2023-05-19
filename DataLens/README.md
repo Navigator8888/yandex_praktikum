@@ -1,4 +1,4 @@
 ### Продажи сети магазинов
 
-Дашборд  по ссылк - https://datalens.yandex/sbssp4kxugjoi
+Дашборд  по ссылке - https://datalens.yandex/sbssp4kxugjoi
 
